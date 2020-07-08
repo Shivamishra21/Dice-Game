@@ -1,0 +1,45 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+  background-image: url(https://i.pinimg.com/originals/ca/45/b8/ca45b8e64347b04ae81ed77cd0442f50.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Satisfy', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 7rem;
+  color: wheat;
+}
+
+p {
+  font-size: 2rem;
+  color: rgba(0, 0, 0, 0.829);
+  font-family: 'Sacramento', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 1.5rem;
+
+}
